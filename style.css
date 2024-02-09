@@ -4,14 +4,16 @@ img {
 
 body {
     background-color: cornflowerblue;
-    color: darkblue;
 }
 
 footer {
     background-color: darkblue;
-    color: aliceblue;
 }
 
 head {
     background-color: blueviolet;
+}
+
+text {
+    color: aliceblue;
 }
