@@ -6,6 +6,7 @@
     background-color: darkblue;
 }
 
+
 img {
     width: 300px;
 }
@@ -21,7 +22,16 @@ footer {
 
 p {
     color: aliceblue;
+    padding-left: 10px;
+    padding-right: 10px;
 }
+
+td {
+    padding: 10px;
+    border: 2px;
+}
+
+
 
 table {
     width: 1000px;
