@@ -1,19 +1,29 @@
-img {
-    height: 200px
+.img {
+    text-align: center
 }
 
-body {
-    background-color: cornflowerblue;
+.intro {
+    background-color: darkblue;
+}
+
+img {
+    width: 300px;
+}
+
+h1, h2 {
+    text-align: center;
+    color: aliceblue
 }
 
 footer {
     background-color: darkblue;
 }
 
-head {
-    background-color: blueviolet;
-}
-
 p {
     color: aliceblue;
+}
+
+table {
+    width: 1000px;
+    background-color: cornflowerblue;
 }
