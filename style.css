@@ -1,5 +1,5 @@
-.img {
-    text-align: center
+.divimg {
+    text-align: center;
 }
 
 .intro {
@@ -7,7 +7,7 @@
 }
 
 
-img {
+.mainimg {
     width: 300px;
 }
 
@@ -26,14 +26,25 @@ p {
     padding-right: 10px;
 }
 
-td {
-    padding: 10px;
-    border: 2px;
-}
 
 
 
-table {
+
+.maintable {
     width: 1000px;
     background-color: cornflowerblue;
+}
+
+table {
+    border: 0;
+    padding: 0;
+}
+td{
+    border: 0;
+    padding: 0;
+}
+
+img{
+    border: 0;
+    padding: 0;
 }
